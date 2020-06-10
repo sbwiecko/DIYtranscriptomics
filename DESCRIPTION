@@ -41,3 +41,5 @@ Imports:
     tidyverse,
     GSVA,
     matrixStats
+URL: https://github.com/sbwiecko/DIYtranscriptomics
+BugReports: https://github.com/sbwiecko/DIYtranscriptomics/issues
