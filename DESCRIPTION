@@ -1,0 +1,43 @@
+Package: DIYtranscriptomics
+Title: reproduces the analysis carried out in the spring 2020 course
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Sébastien",
+           family = "Wieckowski",
+           role = c("aut", "cre"),
+           email = "sbwiecko@free.fr",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
+Depends: 
+    R (>= 2.10)
+VignetteBuilder: knitr
+Imports: 
+    ggplot2,
+    tibble,
+    tidyr,
+    edgeR,
+    rmarkdown,
+    tinytex,
+    knitr,
+    dplyr,
+    Biobase,
+    DT,
+    RColorBrewer,
+    limma,
+    GSEABase,
+    clusterProfiler,
+    cowplot,
+    enrichplot,
+    gplots,
+    gprofiler2,
+    gt,
+    msigdbr,
+    plotly,
+    tidyverse,
+    GSVA,
+    matrixStats
